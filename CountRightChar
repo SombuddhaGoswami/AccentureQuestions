@@ -1,0 +1,7 @@
+To find out the occurence of each character in a text strictly to its right.
+
+Example:
+String s = "aabccddddr"
+Output: 1 0 0 1 0 3 2 1 0 0
+  Explanation: 'a' occur for 1 times to its right excluding itself
+               Similarly next 'a' occur 0 times to its right excluding itself 
