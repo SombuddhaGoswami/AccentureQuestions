@@ -1,0 +1,6 @@
+Return the row/column number as per the given string in excel sheet
+Example 1: "A"
+  Output: 1
+
+Example 2: "AA"
+  Output: 27
